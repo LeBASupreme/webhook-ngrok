@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+      <h1>Deployed React App</h1>
       <p>
         Hello world! This is a deployed React app. You can trigger a redeploy by pushing to the main branch of the connected GitHub repository. Check the server logs for details.
       </p>
